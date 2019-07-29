@@ -1,2 +1,3 @@
 # Portfolio
-Portafolio para reclutadores y entrevistadores.
+Portafolio para reclutadores.
+Portfolio for recruiters.
