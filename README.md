@@ -1,3 +1,4 @@
-# Portfolio
+# Portafolio
 Portafolio para reclutadores.
-Portfolio for recruiters.
+En este espacio voy a estar cargando mis proyectos, concluidos o no a modo
+de presentación de ideas y habilidades.
